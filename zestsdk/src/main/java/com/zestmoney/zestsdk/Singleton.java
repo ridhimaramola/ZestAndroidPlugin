@@ -6,6 +6,6 @@ public class Singleton {
 
     public static String getTextFromPlugin (int number)
     {
-        return "Number is "+number;
+        return "Number is "+ number;
     }
 }
